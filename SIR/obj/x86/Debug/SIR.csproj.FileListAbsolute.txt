@@ -1,0 +1,35 @@
+c:\users\add\documents\visual studio 2013\Projects\SIR\SIR\obj\x86\Debug\SIR.csprojResolveAssemblyReference.cache
+c:\users\add\documents\visual studio 2013\Projects\SIR\SIR\bin\Windows\Debug\SIR.exe
+c:\users\add\documents\visual studio 2013\Projects\SIR\SIR\bin\Windows\Debug\SIR.pdb
+c:\users\add\documents\visual studio 2013\Projects\SIR\SIR\bin\Windows\Debug\MonoGame.Framework.dll
+c:\users\add\documents\visual studio 2013\Projects\SIR\SIR\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+c:\users\add\documents\visual studio 2013\Projects\SIR\SIR\bin\Windows\Debug\SharpDX.dll
+c:\users\add\documents\visual studio 2013\Projects\SIR\SIR\bin\Windows\Debug\SharpDX.XAudio2.dll
+c:\users\add\documents\visual studio 2013\Projects\SIR\SIR\bin\Windows\Debug\SharpDX.Direct3D11.dll
+c:\users\add\documents\visual studio 2013\Projects\SIR\SIR\bin\Windows\Debug\SharpDX.DXGI.dll
+c:\users\add\documents\visual studio 2013\Projects\SIR\SIR\bin\Windows\Debug\SharpDX.Direct2D1.dll
+c:\users\add\documents\visual studio 2013\Projects\SIR\SIR\bin\Windows\Debug\SharpDX.XInput.dll
+c:\users\add\documents\visual studio 2013\Projects\SIR\SIR\bin\Windows\Debug\SharpDX.RawInput.dll
+c:\users\add\documents\visual studio 2013\Projects\SIR\SIR\bin\Windows\Debug\SharpDX.Direct3D9.dll
+c:\users\add\documents\visual studio 2013\Projects\SIR\SIR\bin\Windows\Debug\MonoGame.Framework.xml
+c:\users\add\documents\visual studio 2013\Projects\SIR\SIR\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+c:\users\add\documents\visual studio 2013\Projects\SIR\SIR\bin\Windows\Debug\SharpDX.xml
+c:\users\add\documents\visual studio 2013\Projects\SIR\SIR\bin\Windows\Debug\SharpDX.XAudio2.xml
+c:\users\add\documents\visual studio 2013\Projects\SIR\SIR\bin\Windows\Debug\SharpDX.Direct3D11.xml
+c:\users\add\documents\visual studio 2013\Projects\SIR\SIR\bin\Windows\Debug\SharpDX.DXGI.xml
+c:\users\add\documents\visual studio 2013\Projects\SIR\SIR\bin\Windows\Debug\SharpDX.Direct2D1.xml
+c:\users\add\documents\visual studio 2013\Projects\SIR\SIR\bin\Windows\Debug\SharpDX.XInput.xml
+c:\users\add\documents\visual studio 2013\Projects\SIR\SIR\bin\Windows\Debug\SharpDX.RawInput.xml
+c:\users\add\documents\visual studio 2013\Projects\SIR\SIR\bin\Windows\Debug\SharpDX.Direct3D9.xml
+c:\users\add\documents\visual studio 2013\Projects\SIR\SIR\obj\x86\Debug\SIR.exe
+c:\users\add\documents\visual studio 2013\Projects\SIR\SIR\obj\x86\Debug\SIR.pdb
+c:\users\add\documents\visual studio 2013\Projects\SIR\SIR\bin\Windows\Debug\Content\tile.png
+C:\Users\ADD\Documents\Visual Studio 2013\Projects\SIR\SIR\bin\Windows\Debug\Content\testMap.txt
+C:\Users\ADD\Documents\Visual Studio 2013\Projects\SIR\SIR\bin\Windows\Debug\Content\testMap2.txt
+C:\Users\ADD\Documents\Visual Studio 2013\Projects\SIR\SIR\bin\Windows\Debug\Content\tile7x7.png
+C:\Users\ADD\Documents\Visual Studio 2013\Projects\SIR\SIR\bin\Windows\Debug\ClosedXML.dll
+C:\Users\ADD\Documents\Visual Studio 2013\Projects\SIR\SIR\bin\Windows\Debug\ClosedXML.xml
+C:\Users\ADD\Documents\Visual Studio 2013\Projects\SIR\SIR\bin\Windows\Debug\Content\gameFont.xnb
+X:\Year 3\Modelling and Simulation\SIR\SIR\obj\x86\Debug\SIR.csprojResolveAssemblyReference.cache
+X:\Year 3\Modelling and Simulation\SIR\SIR\obj\x86\Debug\SIR.exe
+X:\Year 3\Modelling and Simulation\SIR\SIR\obj\x86\Debug\SIR.pdb
